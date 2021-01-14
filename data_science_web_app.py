@@ -13,7 +13,7 @@ import numpy as np
 
 
 # load dataset of wine quality (red portuguese wines)
-wine_df = pd.read_csv('C:/Users/morph/winequality-red.csv', sep=';')
+wine_df = pd.read_csv('winequality-red.csv', sep=';')
 
 
 # In[3]:
